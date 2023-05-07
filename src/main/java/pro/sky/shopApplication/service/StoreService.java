@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 import pro.sky.shopApplication.model.Cart;
 
 import java.util.List;
-
+//for commit
 @Service
 public class StoreService {
     private final Cart cart;
